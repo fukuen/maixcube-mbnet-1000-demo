@@ -1,0 +1,3 @@
+[submodule "lib/Maixduino_OV7740"]
+	path = lib/Maixduino_OV7740
+	url = https://github.com/fukuen/Maixduino_OV7740.git
